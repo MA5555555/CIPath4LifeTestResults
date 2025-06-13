@@ -1,0 +1,151 @@
+Application, 0x10471b830, pid: 3538, label: 'Path4Life' <App element pid: 3538>
+  Window (Main), 0x10471b950, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4560356720.3>
+    Other, 0x10471aa80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4562470496.4>
+      Other, 0x10471aba0, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 4562472512.5>
+        Other, 0x10471b140, {{-354.0, -742.4}, {1110.0, 2413.3}} <AX element pid: 3538, elementOrHash.elementID: 4527050560.74>
+        Other, 0x10471ba70, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 4562469536.6>
+          Other, 0x10471bb90, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 105553169770176.7>
+            Other, 0x10471acc0, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 4556173184.8>
+              Other, 0x10471ade0, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 4556194528.9>
+                Other, 0x10471af00, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 4556195440.11>
+                  NavigationBar, 0x10471b020, {{16.0, 113.8}, {370.0, 40.5}}, identifier: 'Log In' <AX element pid: 3538, elementOrHash.elementID: 4556124592.32>
+                    Button, 0x10471e710, {{16.0, 113.8}, {84.4, 40.5}}, label: 'Back' <AX element pid: 3538, elementOrHash.elementID: 105553141358080.33>
+                    StaticText, 0x10471e830, {{177.4, 122.7}, {47.2, 20.9}}, label: 'Log In' <AX element pid: 3538, elementOrHash.elementID: 4557642176.34>
+                  Other, 0x10471e950, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 4556192448.12>
+                    Other, 0x10471ea70, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 4556170208.35>
+                      Other, 0x10471eb90, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 4526961008.36>
+                        Other, 0x10471ecb0, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 4526961440.37>
+                          Other, 0x10471edd0, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 4557164688.38>
+                            Other, 0x10471eef0, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 4561454560.39>
+                              Other, 0x10471f010, {{16.0, 62.0}, {370.0, 804.4}} <AX element pid: 3538, elementOrHash.elementID: 105553169753952.40>
+                                Image, 0x104b1be40, {{16.0, 62.0}, {370.0, 124.3}}, label: 'barBackgroundSmall' <AX element pid: 3538, elementOrHash.elementID: 105553169750272.41>
+                                ScrollView, 0x104b05b30, {{16.0, 183.8}, {370.0, 630.2}} <AX element pid: 3538, elementOrHash.elementID: 4547542528.42>
+                                  Other, 0x104b13d60, {{16.0, 183.8}, {370.0, 477.4}} <AX element pid: 3538, elementOrHash.elementID: 4562520464.45>
+                                    StaticText, 0x104b171c0, {{30.7, 198.5}, {85.6, 16.3}}, label: 'Email Address' <AX element pid: 3538, elementOrHash.elementID: 105553169751072.47>
+                                    TextField, 0x104b0f750, {{45.5, 236.3}, {311.1, 17.8}}, placeholderValue: 'Enter your email address' <AX element pid: 3538, elementOrHash.elementID: 4882353152.48>
+                                    StaticText, 0x104b1c560, {{30.7, 282.9}, {58.6, 16.3}}, label: 'Password' <AX element pid: 3538, elementOrHash.elementID: 105553169751392.49>
+                                    SecureTextField, 0x104b110b0, {{45.5, 321.2}, {283.5, 16.6}}, placeholderValue: 'Enter password' <AX element pid: 3538, elementOrHash.elementID: 4874547200.50>
+                                    Button, 0x104b0c4a0, {{325.3, 306.5}, {46.0, 46.0}}, label: 'eyeClosed' <AX element pid: 3538, elementOrHash.elementID: 105553169751712.51>
+                                    Button, 0x104b12f60, {{260.8, 359.9}, {110.4, 16.3}}, label: 'Forgot password?' <AX element pid: 3538, elementOrHash.elementID: 105553169751872.52>
+                                    Button, 0x104b0eca0, {{30.7, 398.3}, {340.5, 42.0}}, value: 1, Disabled <AX element pid: 3538, elementOrHash.elementID: 105553169798624.80>
+                                      ActivityIndicator, 0x104b17a60, {{191.8, 410.2}, {18.4, 18.4}}, value: 1 <AX element pid: 3538, elementOrHash.elementID: 4559452768.81>
+                                    StaticText, 0x104b11470, {{193.8, 461.5}, {14.4, 18.4}}, label: 'or' <AX element pid: 3538, elementOrHash.elementID: 105553169752352.54>
+                                    Button, 0x104b087f0, {{30.7, 505.0}, {340.5, 42.0}}, label: 'LOGIN WITH APPLE' <AX element pid: 3538, elementOrHash.elementID: 105553169752832.55>
+                                      Image, 0x104b19290, {{45.5, 517.6}, {16.6, 16.6}}, label: 'apple' <AX element pid: 3538, elementOrHash.elementID: 105553169752512.58>
+                                      StaticText, 0x104b1a7a0, {{139.9, 517.8}, {122.1, 16.3}}, label: 'LOGIN WITH APPLE' <AX element pid: 3538, elementOrHash.elementID: 105553169752672.59>
+                                    Button, 0x104b082a0, {{30.3, 570.5}, {341.5, 46.9}}, identifier: 'loginWithGoogleButton', label: 'LOGIN WITH GOOGLE' <AX element pid: 3538, elementOrHash.elementID: 105553169753312.56>
+                                      Image, 0x104b0e350, {{45.5, 585.7}, {16.6, 16.6}}, label: 'google' <AX element pid: 3538, elementOrHash.elementID: 105553169752992.60>
+                                      StaticText, 0x104b0e470, {{132.6, 585.9}, {136.8, 16.3}}, label: 'LOGIN WITH GOOGLE' <AX element pid: 3538, elementOrHash.elementID: 105553169753152.61>
+                                  Other, 0x104b14680, {{355.6, 183.8}, {27.6, 630.2}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 3538, elementOrHash.elementID: 4557704032.46>
+                                    Other, 0x104b147a0, {{380.5, 339.3}, {2.8, 471.9}} <AX element pid: 3538, elementOrHash.elementID: 4557363680.57>
+                                  Other, 0x104b148c0, {{355.6, 183.8}, {27.6, 630.2}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 3538, elementOrHash.elementID: 4557704032.46>
+                                    Other, 0x104b0e780, {{380.5, 339.3}, {2.8, 471.9}} <AX element pid: 3538, elementOrHash.elementID: 4557363680.57>
+                                StaticText, 0x104b0e8a0, {{102.1, 818.9}, {142.0, 16.3}}, label: 'Don’t have an account?' <AX element pid: 3538, elementOrHash.elementID: 105553169749952.43>
+                                Button, 0x104b0e9c0, {{247.9, 818.9}, {52.2, 16.3}}, label: 'Register' <AX element pid: 3538, elementOrHash.elementID: 105553169753792.44>
+    Other, 0x104b10b80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4561474080.65>
+      Other, 0x104b10ca0, {{-402.0, -874.0}, {1206.0, 2622.0}} <AX element pid: 3538, elementOrHash.elementID: 4526959600.70>
+      Other, 0x104b10dc0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4527076416.71>
+        Other, 0x104b1b8f0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4526960624.75>
+          Other, 0x104b1ba10, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4527092672.76>
+            Other, 0x104b1bb30, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4561475760.77>
+              Other, 0x104b0b650, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4562724720.78>
+                Other, 0x104b0b770, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 1968223115579160079.9999>
+                  Other, 0x104b0b890, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3573, elementOrHash.elementID: 4562370688.7>
+                    Other, 0x104b197c0, {{0.0, 72.0}, {402.0, 802.0}} <AX element pid: 3573, elementOrHash.elementID: 4562372192.8>
+                      Image, 0x104b198e0, {{-150.0, -78.0}, {702.0, 1102.0}} <AX element pid: 3573, elementOrHash.elementID: 4562373264.9>
+                      Other, 0x104b19a00, {{0.0, 72.0}, {402.0, 802.0}} <AX element pid: 3573, elementOrHash.elementID: 4562405360.10>
+                        Other, 0x104b09a80, {{0.0, 72.0}, {402.0, 802.0}} <AX element pid: 3573, elementOrHash.elementID: 4562407120.11>
+                          Other, 0x104b09ba0, {{0.0, 72.0}, {402.0, 802.0}} <AX element pid: 3573, elementOrHash.elementID: 4562374576.12>
+                            Other, 0x104b09cc0, {{0.0, 72.0}, {402.0, 802.0}} <AX element pid: 3573, elementOrHash.elementID: 4550843056.13>
+                              Other, 0x104b068f0, {{0.0, 72.0}, {402.0, 802.0}}, identifier: 'BrowserView?IsPageLoaded=true&WebViewProcessID=3590' <AX element pid: 3573, elementOrHash.elementID: 4516251520.14>
+                                Other, 0x104b06a10, {{0.0, 72.0}, {402.0, 56.0}}, identifier: 'TopBrowserBar' <AX element pid: 3573, elementOrHash.elementID: 4551946112.15>
+                                  Button, 0x104b06b30, {{14.0, 83.5}, {53.0, 33.0}}, label: 'Cancel' <AX element pid: 3573, elementOrHash.elementID: 4518360560.18>
+                                    StaticText, 0x104b06e80, {{14.0, 89.5}, {53.0, 21.0}}, label: 'Cancel' <AX element pid: 3573, elementOrHash.elementID: 4518362960.23>
+                                  Button, 0x104b06fa0, {{19.7, 82.0}, {362.7, 36.0}}, identifier: 'URL', label: 'Address', value: ‎accounts.google.com <AX element pid: 3573, elementOrHash.elementID: 4546660592.19>
+                                    Other, 0x104b070c0, {{115.0, 89.7}, {171.7, 20.3}}, identifier: 'URL', label: 'Address', value: ‎accounts.google.com <AX element pid: 3573, elementOrHash.elementID: 105553130318096.24>
+                                    Button, 0x104b071e0, {{316.3, 82.0}, {40.0, 36.0}}, identifier: 'PageFormatMenuButton', label: 'Format Options' <AX element pid: 3573, elementOrHash.elementID: 4519728912.25>
+                                    Button, 0x104b1cd30, {{356.3, 82.0}, {36.0, 36.0}}, identifier: 'ReloadButton', label: 'Reload' <AX element pid: 3573, elementOrHash.elementID: 4548759424.26>
+                                Other, 0x104b1ce50, {{0.0, 72.0}, {402.0, 802.0}} <AX element pid: 3573, elementOrHash.elementID: 4516241136.16>
+                                  Other, 0x104b1cf70, {{0.0, 72.0}, {402.0, 802.0}} <AX element pid: 3573, elementOrHash.elementID: 4513096448.20>
+                                    WebView, 0x104b19d30, {{0.0, 72.0}, {402.0, 802.0}} <AX element pid: 3573, elementOrHash.elementID: 4588780544.27>
+                                      WebView, 0x104b19e50, {{0.0, 72.0}, {402.0, 802.0}} <AX element pid: 3573, elementOrHash.elementID: 4580237824.29>
+                                        WebView, 0x104b19f70, {{0.0, 72.0}, {402.0, 802.0}} <AX element pid: 3573, elementOrHash.elementID: 4597142528.4>
+                                          Other, 0x104b1a090, {{0.0, 0.0}, {402.0, 802.0}} <AX element pid: 3573, elementOrHash.elementID: 15463999835236896729.9999>
+                                            Other, 0x104b1a1b0, {{0.0, 0.0}, {402.0, 802.0}} <AX element pid: 3590, elementOrHash.elementID: 105553150984752.3>
+                                              Other, 0x104b1a2d0, {{0.0, 128.0}, {402.0, 802.0}} <AX element pid: 3590, elementOrHash.elementID: 105553128994784.6>
+                                                Other, 0x104b1a3f0, {{0.0, 128.0}, {402.0, 664.0}}, label: 'Sign in - Google Accounts', Focused <AX element pid: 3590, elementOrHash.elementID: 105553128993680.7>
+                                                  Other, 0x104b0ad60, {{48.0, 145.0}, {127.0, 21.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553128892784.45>
+                                                    StaticText, 0x104b0ae80, {{48.0, 145.0}, {127.0, 20.0}}, label: 'Sign in with Google', value: Sign in with Google, Focused <AX element pid: 3590, elementOrHash.elementID: 105553128995600.52>
+                                                  Other, 0x104b0afa0, {{24.0, 223.0}, {354.0, 41.0}}, label: 'Verify it’s you', value: 1, Focused <AX element pid: 3590, elementOrHash.elementID: 105553128894032.46>
+                                                    StaticText, 0x104b0b0c0, {{24.0, 223.0}, {190.0, 41.0}}, label: 'Verify it’s you', value: Verify it’s you, Focused <AX element pid: 3590, elementOrHash.elementID: 105553128996512.53>
+                                                  Other, 0x104b0b1e0, {{24.0, 280.0}, {354.0, 72.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553128890000.47>
+                                                    StaticText, 0x104b0a620, {{24.0, 281.0}, {352.0, 45.0}}, label: 'To help keep your account safe, Google wants to make sure it’s really you trying to sign in.', value: To help keep your ..., Focused <AX element pid: 3590, elementOrHash.elementID: 105553128991712.54>
+                                                    Link, 0x104b0a740, {{24.0, 305.0}, {341.0, 45.0}}, label: 'Learn more', Focused <AX element pid: 3590, elementOrHash.elementID: 105553128996368.55>
+                                                      StaticText, 0x104b0a860, {{24.0, 305.0}, {341.0, 45.0}}, label: 'Learn more', value: Learn more, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129119808.61>
+                                                  Other, 0x104b0a980, {{56.0, 370.0}, {210.0, 20.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553128896864.48>
+                                                    StaticText, 0x104b05ee0, {{56.0, 370.0}, {210.0, 19.0}}, label: 'chastokolenkodaria@gmail.com', value: chastokolenkodaria..., Focused <AX element pid: 3590, elementOrHash.elementID: 105553128991616.56>
+                                                  Other, 0x104b06000, {{24.0, 424.0}, {354.0, 20.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553128898064.49>
+                                                    StaticText, 0x104b06120, {{24.0, 424.0}, {167.0, 19.0}}, label: 'Confirm you’re not a robot', value: Confirm you’re not..., Focused <AX element pid: 3590, elementOrHash.elementID: 105553129142960.57>
+                                                  Other, 0x104b06240, {{24.0, 468.0}, {304.0, 84.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129051008.63>
+                                                    Other, 0x104b075d0, {{24.0, 468.0}, {304.0, 78.0}}, label: 'reCAPTCHA', Focused <AX element pid: 3590, elementOrHash.elementID: 105553129051152.64>
+                                                      Other, 0x104b076f0, {{24.0, 468.0}, {302.0, 76.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129406656.65>
+                                                        Other, 0x104b07810, {{25.0, 469.0}, {206.0, 74.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129407376.66>
+                                                          Other, 0x104b07930, {{25.0, 469.0}, {52.0, 74.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129407520.68>
+                                                            Switch, 0x104b07a50, {{37.0, 490.0}, {28.0, 29.0}}, label: 'Recaptcha requires verification. I'm not a robot', value: 0, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129406800.71>
+                                                        Other, 0x104b07b70, {{39.0, 528.0}, {278.0, 10.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553128896000.67>
+                                                          Link, 0x104b07c90, {{257.0, 528.0}, {27.0, 10.0}}, label: 'Privacy', Focused <AX element pid: 3590, elementOrHash.elementID: 105553129304544.69>
+                                                            StaticText, 0x104b07db0, {{257.0, 528.0}, {27.0, 10.0}}, label: 'Privacy', value: Privacy, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129312384.72>
+                                                          Link, 0x104b07ed0, {{291.0, 528.0}, {23.0, 10.0}}, label: 'Terms', Focused <AX element pid: 3590, elementOrHash.elementID: 105553129304688.70>
+                                                            StaticText, 0x104b16950, {{291.0, 528.0}, {23.0, 10.0}}, label: 'Terms', value: Terms, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129207104.73>
+                                                  Other, 0x104b16a70, {{299.0, 594.0}, {79.0, 52.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553128898352.50>
+                                                    Button, 0x104b16b90, {{299.0, 600.0}, {79.0, 40.0}}, label: 'Next', Focused <AX element pid: 3590, elementOrHash.elementID: 105553129130384.58>
+                                                  Other, 0x104b16cb0, {{8.0, 594.0}, {138.0, 52.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553128898256.51>
+                                                    Button, 0x104b1ddb0, {{8.0, 600.0}, {138.0, 40.0}}, label: 'Try another way', Focused <AX element pid: 3590, elementOrHash.elementID: 105553129140608.59>
+                                                  Other, 0x104b1ded0, {{8.0, 664.0}, {370.0, 128.0}}, label: 'content information', Focused <AX element pid: 3590, elementOrHash.elementID: 105553128993200.15>
+                                                    Other, 0x104b1dff0, {{8.0, 680.0}, {200.0, 32.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553128993296.23>
+                                                      Other, 0x104b1e110, {{8.0, 680.0}, {200.0, 32.0}}, label: 'Change language ​English (United States)', value: English (United St..., Focused <AX element pid: 3590, elementOrHash.elementID: 105553128991376.26>
+                                                    Other, 0x104b0d370, {{12.0, 728.0}, {187.0, 64.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129125808.24>
+                                                      Other, 0x104b0d490, {{12.0, 744.0}, {50.0, 32.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129141520.27>
+                                                        Link, 0x104b0d5b0, {{24.0, 752.0}, {26.0, 16.0}}, label: 'Help', Focused <AX element pid: 3590, elementOrHash.elementID: 105553129275392.30>
+                                                          StaticText, 0x104b0d6d0, {{24.0, 752.0}, {26.0, 16.0}}, label: 'Help', value: Help, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129277936.33>
+                                                      Other, 0x104b0d7f0, {{69.0, 744.0}, {65.0, 32.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129141280.28>
+                                                        Link, 0x104b08f50, {{81.0, 752.0}, {41.0, 16.0}}, label: 'Privacy', Focused <AX element pid: 3590, elementOrHash.elementID: 105553129279040.31>
+                                                          StaticText, 0x104b09070, {{81.0, 752.0}, {41.0, 16.0}}, label: 'Privacy', value: Privacy, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129277168.34>
+                                                      Other, 0x104b09190, {{141.0, 744.0}, {58.0, 32.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129140752.29>
+                                                        Link, 0x104b092b0, {{153.0, 752.0}, {34.0, 16.0}}, label: 'Terms', Focused <AX element pid: 3590, elementOrHash.elementID: 105553129278464.32>
+                                                          StaticText, 0x104b093d0, {{153.0, 752.0}, {34.0, 16.0}}, label: 'Terms', value: Terms, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129276400.35>
+                                                  Other, 0x104b12050, {{0.0, 128.0}, {4.0, 4.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129324640.38>
+                                                    Other, 0x104b12170, {{2.0, 2.0}, {0.0, 0.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129324832.40>
+                                                      Other, 0x104b12290, {{0.0, 0.0}, {0.0, 0.0}}, Focused <AX element pid: 3590, elementOrHash.elementID: 105553129324928.42>
+                                        Other, 0x104b123b0, {{369.0, 128.0}, {30.0, 663.0}}, label: 'Vertical scroll bar, 2 pages', value: 0% <AX element pid: 3573, elementOrHash.elementID: 4518454832.35>
+                                          Other, 0x104b119d0, {{396.0, 131.0}, {3.0, 657.0}} <AX element pid: 3573, elementOrHash.elementID: 4518455264.37>
+                                        Other, 0x104b11af0, {{0.0, 758.0}, {402.0, 30.0}}, label: 'Horizontal scroll bar, 1 page', value: 0% <AX element pid: 3573, elementOrHash.elementID: 4518452864.36>
+                                          Other, 0x104b11c10, {{3.0, 785.0}, {396.0, 3.0}} <AX element pid: 3573, elementOrHash.elementID: 4518454144.38>
+                                        Other, 0x104b11d30, {{369.0, 128.0}, {30.0, 663.0}}, label: 'Vertical scroll bar, 2 pages', value: 0% <AX element pid: 3573, elementOrHash.elementID: 4518454832.35>
+                                          Other, 0x104b15020, {{396.0, 131.0}, {3.0, 657.0}} <AX element pid: 3573, elementOrHash.elementID: 4518455264.37>
+                                        Other, 0x104b15140, {{0.0, 758.0}, {402.0, 30.0}}, label: 'Horizontal scroll bar, 1 page', value: 0% <AX element pid: 3573, elementOrHash.elementID: 4518452864.36>
+                                          Other, 0x104b15260, {{3.0, 785.0}, {396.0, 3.0}} <AX element pid: 3573, elementOrHash.elementID: 4518454144.38>
+                                Toolbar, 0x104b0c860, {{0.0, 791.0}, {402.0, 49.0}}, identifier: 'BottomBrowserToolbar', label: 'Toolbar' <AX element pid: 3573, elementOrHash.elementID: 4562635776.17>
+                                  Other, 0x104b0c980, {{0.0, 790.7}, {402.0, 0.3}} <AX element pid: 3573, elementOrHash.elementID: 4562479904.21>
+                                  Other, 0x104b0caa0, {{0.0, 791.0}, {402.0, 49.0}} <AX element pid: 3573, elementOrHash.elementID: 4562641040.22>
+                                    Other, 0x104b0cbc0, {{0.0, 791.0}, {402.0, 49.0}} <AX element pid: 3573, elementOrHash.elementID: 4562641568.28>
+                                      Button, 0x104b0cce0, {{0.0, 796.0}, {60.0, 44.0}}, identifier: 'BackButton', label: 'Back' <AX element pid: 3573, elementOrHash.elementID: 4515240592.30>
+                                      Button, 0x104b0ce00, {{85.7, 796.0}, {60.0, 44.0}}, identifier: 'ForwardButton', label: 'Forward', Disabled <AX element pid: 3573, elementOrHash.elementID: 4515245856.31>
+                                      Button, 0x104b0cf20, {{179.0, 796.0}, {44.0, 44.0}} <AX element pid: 3573, elementOrHash.elementID: 4515250000.32>
+                                      Button, 0x104b0d040, {{264.7, 796.0}, {44.0, 44.0}} <AX element pid: 3573, elementOrHash.elementID: 4515251168.33>
+                                      Button, 0x104b13670, {{342.0, 796.0}, {60.0, 44.0}}, identifier: 'ShareButton', label: 'Share' <AX element pid: 3573, elementOrHash.elementID: 4515252640.34>
+  Window, 0x104b13790, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4898990592.63>
+    Other, 0x104b138b0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4557694240.67>
+    Other, 0x10412a030, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 3999082020654152838.9999>
+      Other, 0x104124a60, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3573, elementOrHash.elementID: 4562384784.39>
+        Other, 0x104124b80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3573, elementOrHash.elementID: 4518465808.40>
+        Other, 0x104124e20, {{0.0, 874.0}, {402.0, 233.0}} <AX element pid: 3573, elementOrHash.elementID: 4518371600.106>
+  Window, 0x104124f40, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4865764864.62>
+    Other, 0x104125060, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4714688096.66>
+      Other, 0x104125180, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4714551504.72>
+      Other, 0x10471f130, {{0.0, 874.0}, {402.0, 233.0}} <AX element pid: 3538, elementOrHash.elementID: 4714549760.83>
+  Window, 0x10471f250, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4547799040.64>
+    Other, 0x10471f370, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 4560489232.69>
+      Other, 0x10471f490, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3538, elementOrHash.elementID: 17953657672030651865.9999>
+        Other, 0x10471f5b0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3573, elementOrHash.elementID: 4513115536.6>
+          Other, 0x10471f6d0, {{0.0, 874.0}, {402.0, 233.0}} <AX element pid: 3573, elementOrHash.elementID: 4513147024.43>
