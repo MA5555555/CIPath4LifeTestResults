@@ -1,0 +1,59 @@
+Application, 0x10e921180, pid: 2953, label: 'Path4Life' <App element pid: 2953>
+  Window (Main), 0x10e919740, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 2953, elementOrHash.elementID: 4397266928.4>
+    Other, 0x10cc18e40, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 2953, elementOrHash.elementID: 4489017280.7>
+      Other, 0x10cc130b0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 2953, elementOrHash.elementID: 4489019968.10>
+        Other, 0x10cc05970, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 2953, elementOrHash.elementID: 4397262128.14>
+          Other, 0x10cc12ab0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 2953, elementOrHash.elementID: 105553169929056.19>
+            Other, 0x10cc16130, {{25.0, 281.7}, {352.0, 50.0}} <AX element pid: 2953, elementOrHash.elementID: 4489033536.24>
+              Other, 0x10cc18390, {{25.0, 281.7}, {352.0, 50.0}} <AX element pid: 2953, elementOrHash.elementID: 4489046960.29>
+                Other, 0x10cc184b0, {{25.0, 281.7}, {48.7, 50.0}} <AX element pid: 2953, elementOrHash.elementID: 4489050448.32>
+                  TextField, 0x10cc185d0, {{23.0, 281.7}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_0', value: 1 <AX element pid: 2953, elementOrHash.elementID: 4412750848.3>
+                  Other, 0x10cc186f0, {{25.0, 323.7}, {48.7, 2.0}} <AX element pid: 2953, elementOrHash.elementID: 4384194480.50>
+                Other, 0x10cc18810, {{85.7, 281.7}, {48.7, 50.0}} <AX element pid: 2953, elementOrHash.elementID: 4398884672.33>
+                  TextField, 0x10cc18930, {{83.7, 281.7}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_1', value: 2 <AX element pid: 2953, elementOrHash.elementID: 4437741056.51>
+                  Other, 0x10cc18a50, {{85.7, 323.7}, {48.7, 2.0}} <AX element pid: 2953, elementOrHash.elementID: 4385222304.52>
+                Other, 0x10cc13940, {{146.3, 281.7}, {48.7, 50.0}} <AX element pid: 2953, elementOrHash.elementID: 4385223072.34>
+                  TextField, 0x10cc13a60, {{144.3, 281.7}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_2', value: 3 <AX element pid: 2953, elementOrHash.elementID: 4404064256.53>
+                  Other, 0x10cc13b80, {{146.3, 323.7}, {48.7, 2.0}} <AX element pid: 2953, elementOrHash.elementID: 4397817936.54>
+                Other, 0x10cf06220, {{207.0, 281.7}, {48.7, 50.0}} <AX element pid: 2953, elementOrHash.elementID: 4397819008.35>
+                  TextField, 0x10cf06340, {{205.0, 281.7}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_3', value:  , Keyboard Focused <AX element pid: 2953, elementOrHash.elementID: 4420839424.55>
+                  Other, 0x10cf0ed40, {{207.0, 323.7}, {48.7, 2.0}} <AX element pid: 2953, elementOrHash.elementID: 4403047808.56>
+                Other, 0x10cf0ee60, {{267.7, 281.7}, {48.7, 50.0}} <AX element pid: 2953, elementOrHash.elementID: 4403048880.36>
+                  TextField, 0x10cf0e570, {{265.7, 281.7}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_4', value:   <AX element pid: 2953, elementOrHash.elementID: 4479579648.57>
+                  Other, 0x10cf0e690, {{267.7, 323.7}, {48.7, 2.0}} <AX element pid: 2953, elementOrHash.elementID: 4403057584.58>
+                Other, 0x10cf0e7b0, {{328.3, 281.7}, {48.7, 50.0}} <AX element pid: 2953, elementOrHash.elementID: 4403058656.37>
+                  TextField, 0x10cf0e8d0, {{326.3, 281.7}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_5', value:   <AX element pid: 2953, elementOrHash.elementID: 4479601152.59>
+                  Other, 0x10cf0e9f0, {{328.3, 323.7}, {48.7, 2.0}} <AX element pid: 2953, elementOrHash.elementID: 4384195344.60>
+  Window, 0x10cf0f5a0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 2953, elementOrHash.elementID: 4412561408.5>
+    Other, 0x10cf0f6c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 2953, elementOrHash.elementID: 4399919136.8>
+      Other, 0x10cf0f7e0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 2953, elementOrHash.elementID: 4397908016.11>
+      Other, 0x10cf0f900, {{0.0, 583.0}, {402.0, 291.0}} <AX element pid: 2953, elementOrHash.elementID: 4399923216.12>
+        Other, 0x10cf0fa20, {{0.0, 583.0}, {402.0, 233.0}} <AX element pid: 2953, elementOrHash.elementID: 4489106816.68>
+  Window, 0x10cf0fb40, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 2953, elementOrHash.elementID: 4421699072.65>
+    Other, 0x10cf0fc60, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 2953, elementOrHash.elementID: 4403241008.66>
+      Other, 0x10cf0fd80, {{0.0, 583.0}, {402.0, 291.0}} <AX element pid: 2953, elementOrHash.elementID: 4403031328.67>
+        Other, 0x10cf0fea0, {{0.0, 583.0}, {402.0, 233.0}} <AX element pid: 2953, elementOrHash.elementID: 4400125136.69>
+          Other, 0x10cf0ffc0, {{0.0, 583.0}, {402.0, 291.0}} <AX element pid: 2953, elementOrHash.elementID: 4400121040.71>
+            Other, 0x10cf10240, {{0.0, 583.0}, {402.0, 291.0}} <AX element pid: 2953, elementOrHash.elementID: 4400122160.74>
+              Other, 0x10cf10360, {{0.0, 583.0}, {402.0, 291.0}} <AX element pid: 2953, elementOrHash.elementID: 4400124016.77>
+        Other, 0x10ea1bc40, {{0.0, 583.0}, {402.0, 233.0}} <AX element pid: 2953, elementOrHash.elementID: 4385263440.17>
+          Keyboard, 0x10ea1cc80, {{0.0, 583.0}, {402.0, 233.0}} <AX element pid: 2953, elementOrHash.elementID: 4488008720.21>
+            Other, 0x10ea1cda0, {{0.0, 583.0}, {402.0, 233.0}} <AX element pid: 2953, elementOrHash.elementID: 4488009856.26>
+              Other, 0x10ea1d0a0, {{0.0, 583.0}, {402.0, 233.0}}, identifier: 'UIKeyboardLayoutStar Preview' <AX element pid: 2953, elementOrHash.elementID: 4463166976.31>
+                Key, 0x10ea1d1c0, {{0.0, 583.0}, {133.0, 54.0}}, label: '1' <AX element pid: 2953, elementOrHash.elementID: 105553151365504.38>
+                Key, 0x10ea14520, {{131.9, 583.0}, {138.0, 54.0}}, label: '2' <AX element pid: 2953, elementOrHash.elementID: 105553151365744.39>
+                Key, 0x10ea14640, {{268.9, 583.0}, {133.0, 54.0}}, label: '3' <AX element pid: 2953, elementOrHash.elementID: 105553151347920.40>
+                Key, 0x10ea17330, {{0.0, 637.0}, {133.0, 54.0}}, label: '4' <AX element pid: 2953, elementOrHash.elementID: 105553151346400.41>
+                Key, 0x10ea17450, {{131.9, 637.0}, {138.0, 54.0}}, label: '5' <AX element pid: 2953, elementOrHash.elementID: 105553151059408.42>
+                Key, 0x10ea17570, {{268.9, 637.0}, {133.0, 54.0}}, label: '6' <AX element pid: 2953, elementOrHash.elementID: 105553151061008.43>
+                Key, 0x10ea17690, {{0.0, 691.0}, {133.0, 54.0}}, label: '7' <AX element pid: 2953, elementOrHash.elementID: 105553151115040.44>
+                Key, 0x10ea24c30, {{131.9, 691.0}, {138.0, 54.0}}, label: '8' <AX element pid: 2953, elementOrHash.elementID: 105553151106320.45>
+                Key, 0x10ea24d50, {{268.9, 691.0}, {133.0, 54.0}}, label: '9' <AX element pid: 2953, elementOrHash.elementID: 105553151107840.46>
+                Key, 0x10ea24e70, {{-3.0, 745.0}, {136.1, 54.0}} <AX element pid: 2953, elementOrHash.elementID: 105553151103600.47>
+                Key, 0x10ea24f90, {{131.9, 745.0}, {138.0, 54.0}}, label: '0' <AX element pid: 2953, elementOrHash.elementID: 105553151219248.48>
+                Key, 0x10ea250b0, {{268.8, 745.0}, {133.0, 54.0}}, label: 'Delete' <AX element pid: 2953, elementOrHash.elementID: 105553151224048.49>
+        Other, 0x10ea251d0, {{0.0, 583.0}, {402.0, 291.0}} <AX element pid: 2953, elementOrHash.elementID: 4403080048.70>
+          Button, 0x10ea252f0, {{8.5, 805.7}, {68.1, 68.7}}, label: 'Next keyboard', value: العربية <AX element pid: 2953, elementOrHash.elementID: 4401126016.72>
+            StaticText, 0x10ea25410, {{8.5, 805.7}, {0.0, 0.0}} <AX element pid: 2953, elementOrHash.elementID: 4401127856.75>
+          Button, 0x10ea25530, {{325.4, 805.4}, {68.1, 68.7}}, identifier: 'dictation', label: 'Dictate', Disabled <AX element pid: 2953, elementOrHash.elementID: 4401130256.73>
+            StaticText, 0x10ea25650, {{325.4, 805.4}, {0.0, 0.0}} <AX element pid: 2953, elementOrHash.elementID: 4401132096.76>
