@@ -1,0 +1,30 @@
+Application, 0x103213ac0, pid: 3014, label: 'Path4Life' <App element pid: 3014>
+  Window (Main), 0x103214540, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3014, elementOrHash.elementID: 4306520112.5>
+    Other, 0x103214900, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3014, elementOrHash.elementID: 4306592944.8>
+      Other, 0x103104600, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3014, elementOrHash.elementID: 4306595648.11>
+        Other, 0x103117bf0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3014, elementOrHash.elementID: 4376949664.15>
+          Other, 0x103117d10, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3014, elementOrHash.elementID: 105553169849056.20>
+            Other, 0x103117720, {{25.0, 410.0}, {352.0, 50.0}} <AX element pid: 3014, elementOrHash.elementID: 4376970288.25>
+              Other, 0x103117840, {{25.0, 410.0}, {352.0, 50.0}} <AX element pid: 3014, elementOrHash.elementID: 4376971856.30>
+                Other, 0x103105370, {{25.0, 410.0}, {48.7, 50.0}} <AX element pid: 3014, elementOrHash.elementID: 4306519296.33>
+                  TextField, 0x103105490, {{23.0, 410.0}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_0', value: 1 <AX element pid: 3014, elementOrHash.elementID: 4311950336.3>
+                  Other, 0x103117e30, {{25.0, 452.0}, {48.7, 2.0}} <AX element pid: 3014, elementOrHash.elementID: 4374751184.51>
+                Other, 0x103117f50, {{85.7, 410.0}, {48.7, 50.0}} <AX element pid: 3014, elementOrHash.elementID: 4374753952.34>
+                  TextField, 0x103118070, {{83.7, 410.0}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_1', value: 2 <AX element pid: 3014, elementOrHash.elementID: 4387496960.52>
+                  Other, 0x103118190, {{85.7, 452.0}, {48.7, 2.0}} <AX element pid: 3014, elementOrHash.elementID: 4374764688.53>
+                Other, 0x1031182b0, {{146.3, 410.0}, {48.7, 50.0}} <AX element pid: 3014, elementOrHash.elementID: 4374765760.35>
+                  TextField, 0x1031183d0, {{144.3, 410.0}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_2', value: 3 <AX element pid: 3014, elementOrHash.elementID: 4387516928.54>
+                  Other, 0x1031184f0, {{146.3, 452.0}, {48.7, 2.0}} <AX element pid: 3014, elementOrHash.elementID: 4374774224.55>
+                Other, 0x103118870, {{207.0, 410.0}, {48.7, 50.0}} <AX element pid: 3014, elementOrHash.elementID: 4374775296.36>
+                  TextField, 0x103118990, {{205.0, 410.0}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_3', value: 4 <AX element pid: 3014, elementOrHash.elementID: 4387504128.56>
+                  Other, 0x103118ab0, {{207.0, 452.0}, {48.7, 2.0}} <AX element pid: 3014, elementOrHash.elementID: 4374782640.57>
+                Other, 0x103118cd0, {{267.7, 410.0}, {48.7, 50.0}} <AX element pid: 3014, elementOrHash.elementID: 4374783712.37>
+                  TextField, 0x103118df0, {{265.7, 410.0}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_4', value: 5 <AX element pid: 3014, elementOrHash.elementID: 4387561472.58>
+                  Other, 0x103118f10, {{267.7, 452.0}, {48.7, 2.0}} <AX element pid: 3014, elementOrHash.elementID: 4374791840.59>
+                Other, 0x103119030, {{328.3, 410.0}, {48.7, 50.0}} <AX element pid: 3014, elementOrHash.elementID: 4374792912.38>
+                  TextField, 0x103119150, {{326.3, 410.0}, {48.7, 46.0}}, identifier: 'Burner_Single_Digit_Field_5', value: 6 <AX element pid: 3014, elementOrHash.elementID: 4387464704.60>
+                  Other, 0x103119270, {{328.3, 452.0}, {48.7, 2.0}} <AX element pid: 3014, elementOrHash.elementID: 4377916608.61>
+  Window, 0x103119390, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3014, elementOrHash.elementID: 4321023488.6>
+    Other, 0x1031194b0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3014, elementOrHash.elementID: 4377973552.9>
+      Other, 0x1031195d0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 3014, elementOrHash.elementID: 4376897952.12>
+      Other, 0x1031196f0, {{0.0, 874.0}, {402.0, 233.0}} <AX element pid: 3014, elementOrHash.elementID: 4376901424.13>
